@@ -1,6 +1,6 @@
 {
   "name": "auto-upload-package-plugin",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "自动部署前端项目",
   "main": "./src/index.js",
   "scripts": {

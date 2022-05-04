@@ -12,10 +12,18 @@
     "package",
     "dist"
   ],
-  "author": "codfish-9527",
-  "license": "GPL",
+  "author": "Wing-9527",
+  "license": "MIT",
   "devDependencies": {},
   "dependencies": {
     "node-ssh": "^12.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wing-9527/auto-upload-package-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Wing-9527/auto-upload-package-plugin/issues"
+  },
+  "homepage": "https://github.com/Wing-9527/auto-upload-package-plugin#readme"
 }

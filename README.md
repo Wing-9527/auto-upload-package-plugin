@@ -1,5 +1,5 @@
 ## Description 
-webpack插件，将打好的包自动上传到服务器。  
+webpack插件，将打好的包自动部署到服务器。  
 auto upload your build package to the server.
 ## Example
 ```

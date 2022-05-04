@@ -1,7 +1,7 @@
 {
   "name": "auto-upload-package-plugin",
   "version": "1.0.0",
-  "description": "webpack插件，将打好的包自动上传到服务器。",
+  "description": "webpack插件，将打好的包自动部署到服务器。",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

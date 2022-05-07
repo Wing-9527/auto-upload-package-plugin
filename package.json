@@ -1,6 +1,6 @@
 {
   "name": "auto-upload-package-plugin",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "webpack插件，将打好的包自动部署到服务器。",
   "main": "./src/index.js",
   "scripts": {
